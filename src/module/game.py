@@ -1,6 +1,5 @@
 # здесь подключаются модули
 import pygame
-#import sys
 from settings import Settings
 from ship import Ship
 from aliens import Alien
